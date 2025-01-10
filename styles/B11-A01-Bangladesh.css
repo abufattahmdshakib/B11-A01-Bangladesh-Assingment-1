@@ -118,7 +118,7 @@ body{
 /* The Vision of Future related style */
 .vision-icon-title-description{
     display: flex;
-    justify-content: space-between;
+    justify-content:space-between;
     gap: 50px;
     margin-top: 50px;
 }
@@ -142,22 +142,26 @@ body{
     box-sizing: border-box;
     border-radius: 16px;
     background: rgba(84, 144, 245, 0.2);
-    height: 300px;
+    height: 330px;
     padding: 28px;
+    width: 800px;
+
 }
 .Energy-container{
     box-sizing: border-box;
     border-radius: 16px;
     background: rgb(198, 228, 214);
-    height: 300px;
+    height: 330px;
     padding: 28px;
+    width: 800px;
 }
 .Infrastructure-container{
     box-sizing: border-box;
     border-radius: 16px;
     background: rgb(247, 235, 207);
-    height: 300px;
+    height: 330px;
     padding: 28px;
+    width: 800px;
 }
 .Learn-button-one{
     padding: 2px 10px;
@@ -176,4 +180,36 @@ body{
     font-size: 15px;
     border-radius: 8px;
     background: rgb(255, 194, 57);
+}
+/* Dr. Muhammad Yunus related style */
+.Muhammad-Yunus-contener{
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    margin-top: 70px;
+    padding: 20px;
+}
+.Muhammad-Yunus-header-discription{
+    color: rgba(14, 14, 14, 0.8);
+    font-family:"Fira Sans";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    margin-bottom: 60px;
+}
+.Muhammad-Yunus-header{
+    color: rgba(14, 14, 14, 0.8);
+    font-family:"Fira Sans";
+    font-size: 28px;
+    font-weight: 700;
+    text-align: left;
+}
+.Muhammad-Yunus-description{
+    color: rgba(14, 14, 14, 0.6);
+    font-family:"Fira Sans";
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
 }
