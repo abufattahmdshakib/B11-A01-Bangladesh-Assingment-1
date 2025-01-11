@@ -190,6 +190,11 @@ body{
     margin-top: 70px;
     padding: 20px;
 }
+.Muhammad-Yunus-header-backgrawnd-img{
+    background-image: url('../assets/quote-bg.png');
+    background-repeat: no-repeat;
+    padding-top:1px;
+}
 .Muhammad-Yunus-header-discription{
     color: rgba(14, 14, 14, 0.8);
     font-family:"Fira Sans";
@@ -212,4 +217,72 @@ body{
     font-size: 18px;
     font-weight: 400;
     text-align: left;
+}
+/* Your Opinion Matters related style */
+.Opinion-Matters-header{
+    color: rgb(14, 14, 14);
+    font-family:"Fira Sans";
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    margin: 120px 0px 0px 0px;
+    text-align: left;
+}
+.table-conteiner{
+    padding: 20px 20px 0px 20px ;
+    border-radius: 16px;
+    height: 220px;
+    margin: 40px 0px 30px 0px;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    background: rgb(250, 248, 248);
+}
+table{
+    border-collapse: collapse;
+    width: 1190px;
+    height: 180px;
+}
+.your-question{
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    background: rgb(198, 228, 214);
+    height: 45px;
+    padding: 5px;
+}
+.table-head-one{
+    text-align: left;
+    padding-left: 20px;
+}
+.table-head-two{
+    text-align: right;
+    padding-right: 20px;
+}
+.Do-you-believe{
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    padding-left: 30px;
+}
+.Agree-button{
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    text-align: center;
+}
+.Agree-button-three{
+    background: rgb(198, 228, 214);
+}
+/* Recent News related */
+.Recent-bangladesh-header{
+    color: rgb(14, 14, 14);
+    font-family:"Fira Sans";
+    font-size: 40px;
+    font-weight: 700;
+    text-align: left;
+    margin: 70px 0px 10px 0px;
+}
+.Recent-bangladesh-discription{
+    color: rgba(14, 14, 14, 0.7);
+    font-family:"Fira Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    margin: 20px 0px 30px 0px;
 }
