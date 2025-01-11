@@ -286,3 +286,55 @@ table{
     text-align: left;
     margin: 20px 0px 30px 0px;
 }
+/* Bangladesh Launches New Satellite */
+.Bangladesh-Launches-New-Satellite-contener{
+    display:flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin: 70px 0px 40px 0px;
+}
+.setelite-image{
+    width: 408px;
+    height: 308px;
+    border-radius: 16px;
+    margin-left: 70px;
+}
+.New-Satellite-contener{
+    width: 600px;
+    height: 350px;
+    padding-right: 70px;
+}
+
+.New-Satellite-title{
+    color: rgba(14, 14, 14, 0.8);
+    font-family:"Fira Sans";
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    text-align: left;
+    margin: 10px 0px 2px 0px;
+}
+.date-and-time{
+    display:inline-flex;
+    justify-content: space-between;
+    gap: 25px;
+}
+.date-and-time-description{
+    color: rgba(14, 14, 14, 0.7);
+    font-family:"Fira Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-top: 8px;
+}
+.New-Satellite-button{
+    color: rgb(255, 255, 255);
+    font-family:"Fira Sans";
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    text-align: left;
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+}
