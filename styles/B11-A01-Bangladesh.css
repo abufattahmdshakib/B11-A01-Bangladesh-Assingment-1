@@ -260,10 +260,12 @@ table{
 .Do-you-believe{
     border: 1px solid rgba(14, 14, 14, 0.15);
     padding-left: 30px;
+    background-color:rgb(255, 255, 255);
 }
 .Agree-button{
     border: 1px solid rgba(14, 14, 14, 0.15);
     text-align: center;
+    background-color:rgb(255, 255, 255);
 }
 .Agree-button-three{
     background: rgb(198, 228, 214);
@@ -357,4 +359,88 @@ table{
     height: 308px;
     border-radius: 16px;
     margin: 20px 50px 20px 0px;
+}
+/* Donate Today related style */
+.Donate-taka-for-bangladesh{
+    display:block;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(248, 238, 238);
+    margin:70px 0px 40px 0px ;
+    border-radius: 24px;
+}
+.Donate-title{
+    color: rgb(14, 14, 14);
+    font-family:"Fira Sans";
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    padding-top: 50px;
+}
+.donate-discription{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: "Fira Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    padding: 0px 80px 0px 80px;
+}
+.donate-all-taka{
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+    gap: 10px;
+    margin:0px 160px 0px 160px;
+}
+.donate-taka{
+    color: rgba(14, 14, 14, 0.8);
+    font-family:"Fira Sans";
+    font-size: 40px;
+    font-weight: 700;
+    padding: 20px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(252, 252, 252);
+}
+.donate-taka-donate{
+    color: rgba(14, 14, 14, 0.8);
+    font-family:"Fira Sans";
+    font-size: 40px;
+    font-weight: 700;
+    padding: 20px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    box-sizing: border-box;
+    background: rgb(198, 228, 214);
+}
+.donated-Other-Amount{
+    color: rgba(14, 14, 14, 0.3);
+    font-family: "Fira Sans";
+    font-size: 20px;
+    font-weight: 400;
+    margin: -20px 190px 0px 190px;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+    background: rgb(252, 252, 252);
+}
+.donate-button{
+    color: rgb(255, 255, 255);
+    font-family:"Fira Sans";
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.1);
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+    margin: 25px 0px 20px 0px;
 }
