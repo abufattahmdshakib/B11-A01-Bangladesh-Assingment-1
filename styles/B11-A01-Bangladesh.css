@@ -16,7 +16,7 @@ body{
     font-size: 32px;
     font-weight: 700;
 }
-.nav-button{
+.nav-button {
     color: rgb(0, 106, 80);
     font-family:"Fira Sans";
     font-size: 18px;
@@ -503,4 +503,29 @@ table{
     font-weight: 400;
     text-align: center;
     padding-bottom: 50px;
+}
+/* footer-bangladesh related style */
+.footer-contener{
+    background-color: rgb(248, 238, 238);
+    height: 250px;
+    border-radius: 24px;
+    margin-bottom: 50px;
+}
+.footer-bangladesh{
+    color: rgb(14, 14, 14);
+    font-family:"Fira Sans";
+    font-size: 32px;
+    font-weight: 700;
+    text-align:center;
+    padding-top: 58px;
+}
+.footer-image-itme{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    text-align: center;
+    padding-top: 20px;
+    padding-right: 550px;
+    padding-left: 550px;
+    padding-bottom: 20px;
 }
